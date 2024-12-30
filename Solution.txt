@@ -15,11 +15,11 @@ CREATE TABLE matches
        guest_goals 	INT
 );
 
-INSERT INTO teams VALUES(10, 'Give');
-INSERT INTO teams VALUES(20, 'Never');
-INSERT INTO teams VALUES(30, 'You');
-INSERT INTO teams VALUES(40, 'Up');
-INSERT INTO teams VALUES(50, 'Gonna');
+INSERT INTO teams VALUES(10, 'Liverpool');
+INSERT INTO teams VALUES(20, 'Chelsea');
+INSERT INTO teams VALUES(30, 'Manchester city');
+INSERT INTO teams VALUES(40, 'Manchester united');
+INSERT INTO teams VALUES(50, 'Tottenham hotspur');
 
 INSERT INTO matches VALUES(1, 30, 20, 1, 0);
 INSERT INTO matches VALUES(2, 10, 20, 1, 2);
